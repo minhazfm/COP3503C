@@ -3,9 +3,6 @@
 //Section: 0001
 //Assignment: Lottery.java
 //Date: September 2, 2015
-// A Java program that reads in a text file that contains the amount of lottery tickets sold, and each
-// purchaser's last name, first name and lottery numbers. Program then asks for user to input winning
-// lottery numbers and prints out matches and winnings, if purchaser matches at least 3 numbers.
 
 import java.io.*;
 import java.util.*;
